@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Dashboard Funcionario";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Panel de Control - Funcionario</h1>
+
+    <div class="row">
+        <!-- Gestión de Usuarios -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Gestión de Usuarios</h3>
+                <p>Registrar, editar o eliminar usuarios del sistema.</p>
+                <a class="btn btn-primary" href="/DashboardFuncionario/UserList/">Administrar Usuarios</a>
+            </div>
+        </div>
+
+        <!-- Gestión de Vehículos -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Gestión de Vehículos</h3>
+                <p>Registrar, asignar lugar o eliminar vehículos.</p>
+                <a class="btn btn-primary" href="/VehicleEntities">Administrar Vehículos</a>
+            </div>
+        </div>
+
+        <!-- Gestión de Espacios del Parqueadero -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Espacios Disponibles</h3>
+                <p>Controlar disponibilidad y asignar espacios.</p>
+                <a class="btn btn-primary" href="/ParkingEntities">Ver Espacios</a>
+            </div>
+        </div>
+
+        <!-- Tarifas y Costos -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Tarifas y Costos</h3>
+                <p>Administrar precios por hora, mensualidades o multas.</p>
+                <a class="btn btn-warning" href="/TariffEntities">Configurar Tarifas</a>
+            </div>
+        </div>
+
+        <!-- Reportes -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Reportes</h3>
+                <p>Ver estadísticas de ingresos, salidas y pagos.</p>
+                <a class="btn btn-secondary" href="/Reports">Generar Reportes</a>
+            </div>
+        </div>
+    </div>
+</div>

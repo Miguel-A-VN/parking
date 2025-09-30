@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0 rounded-3">
+                <div class="card-body text-center p-5">
+                    <h1 class="display-5 fw-bold text-primary mb-4">
+                        🚗 Bienvenidos al Sistema Administrador de Parqueaderos
+                    </h1>
+                    <p class="lead text-muted mb-4">
+                        Gestiona usuarios, vehículos, espacios y tarifas de manera sencilla.
+                        Accede al sistema según tu rol para comenzar.
+                    </p>
+
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <div class="d-grid gap-3 col-md-6 mx-auto">
+                            <a class="btn btn-primary btn-lg shadow-sm" href="/Home/Login?role=Funcionario">
+                                <i class="bi bi-box-arrow-in-right"></i> Ingresar al sistema
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="d-grid gap-3 col-md-6 mx-auto">
+                            @if (User.IsInRole("Staff"))
+                            {
+                                <a class="btn btn-success btn-lg shadow-sm"
+                                   asp-controller="DashboardFuncionario"
+                                   asp-action="Index">
+                                    <i class="bi bi-speedometer2"></i> Ir a mi Dashboard (Funcionario)
+                                </a>
+                            }
+                            else if (User.IsInRole("Apprentice"))
+                            {
+                                <a class="btn btn-info btn-lg shadow-sm"
+                                   asp-controller="DashboardAprendiz"
+                                   asp-action="Index">
+                                    <i class="bi bi-person-badge"></i> Ir a mi Dashboard (Aprendiz)
+                                </a>
+                            }
+                        </div>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

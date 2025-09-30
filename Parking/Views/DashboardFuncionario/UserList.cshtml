@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Parking.Models.Entities.UserEntity>
+
+@{
+    ViewData["Title"] = "Usuarios Registrados";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h1 class="mb-0">Usuarios Registrados</h1>
+        <a class="btn btn-success" asp-action="CreateUser" asp-controller="DashboardFuncionario">
+            Crear Usuario
+        </a>
+
+    </div>
+
+    <div class="card shadow">
+        <div class="card-body">
+            <table class="table table-hover table-striped">
+
+                <thead class="table-dark">
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.FullName)</th>
+                        <th>@Html.DisplayNameFor(model => model.Email)</th>
+                        <th>@Html.DisplayNameFor(model => model.Role)</th>
+                        <th>@Html.DisplayNameFor(model => model.RegisteredAt)</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.FullName)</td>
+
+                            <td>@Html.DisplayFor(modelItem => item.Email)</td>
+
+                            <td>
+                                <span class="badge @(item.Role == "Staff" ? "bg-primary" : "bg-secondary")">
+                                    @Html.DisplayFor(modelItem => item.Role)
+                                </span>
+                            </td>
+
+                            <td>@item.RegisteredAt.ToString("dd/MM/yyyy")</td>
+
+                            <td class="text-center">
+                                <a asp-action="Edit" asp-route-id="@item.UserId" class="btn btn-sm btn-warning">
+                                    <i class="bi bi-pencil"></i> Editar
+                                </a>
+                                <a asp-action="Details" asp-route-id="@item.UserId" class="btn btn-sm btn-info">
+                                    <i class="bi bi-eye"></i> Detalles
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@item.UserId" class="btn btn-sm btn-danger">
+                                    <i class="bi bi-trash"></i> Eliminar
+                                </a>
+                            </td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

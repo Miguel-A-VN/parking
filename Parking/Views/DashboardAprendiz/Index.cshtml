@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Dashboard Aprendiz";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4">Panel de Control - Aprendiz</h1>
+
+    <div class="row">
+        <!-- Ubicación del Vehículo -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Mi Vehículo</h3>
+                <p>Ver dónde está estacionado tu vehículo.</p>
+                <a class="btn btn-primary" href="/ReservationEntities/MisReservas">Ver Mi Lugar</a>
+            </div>
+        </div>
+
+        <!-- Deudas y Pagos -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Deudas y Pagos</h3>
+                <p>Consultar cuánto debes por tu estadía.</p>
+                <a class="btn btn-warning" href="/Payments/MisPagos">Ver Pagos</a>
+            </div>
+        </div>
+
+        <!-- Reclamos -->
+        <div class="col-md-6 mb-4">
+            <div class="card shadow p-3">
+                <h3>Reclamos</h3>
+                <p>Reportar un problema o enviar un reclamo al administrador.</p>
+                <a class="btn btn-danger" href="/Complaints/Nuevo">Hacer un Reclamo</a>
+            </div>
+        </div>
+    </div>
+</div>

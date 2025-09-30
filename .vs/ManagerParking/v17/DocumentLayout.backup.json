@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\parking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\parking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\viewmodel\\registervehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\viewmodel\\registervehicleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\viewmodel\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\viewmodel\\registeraprendizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\viewmodel\\registeraprendizviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\vehicleentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\dashboardfuncionario\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\dashboardfuncionario\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\dashboardfuncionario\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\dashboardfuncionario\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\dashboardfuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\dashboardfuncionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\parkingspotentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\parkingspotentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\tariffentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\tariffentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\parkingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\parkingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\dashboardfuncionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\dashboardfuncionario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\userentities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\userentities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\userentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\userentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\parkingentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\parkingentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\dashboardaprendiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\dashboardaprendiz\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\tariffentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\tariffentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\models\\entities\\reservationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\models\\entities\\reservationentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\vehicleentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\vehicleentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\reservationentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\reservationentitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\controllers\\dashboardaprendizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\controllers\\dashboardaprendizcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\vehicleentities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\vehicleentities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\vehicleentities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\vehicleentities\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|c:\\users\\miguel-dev\\documents\\csharp\\managerparking\\parking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B8E48E4-B28F-4777-8B65-56989BC4285F}|Parking\\Parking.csproj|solutionrelative:parking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\README.md",
+              "RelativeDocumentMoniker": "Parking\\README.md",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\README.md",
+              "RelativeToolTip": "Parking\\README.md",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-09-30T14:47:27.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Parking\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Parking\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:46:23.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:07:42.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Program.cs",
+              "RelativeDocumentMoniker": "Parking\\Program.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Program.cs",
+              "RelativeToolTip": "Parking\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAlwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:25:38.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:46:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Home\\Register.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T13:05:13.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterAprendizViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterAprendizViewModel.cs",
+              "RelativeDocumentMoniker": "Parking\\ViewModel\\RegisterAprendizViewModel.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterAprendizViewModel.cs",
+              "RelativeToolTip": "Parking\\ViewModel\\RegisterAprendizViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:14:35.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Parking.csproj",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Parking.csproj",
+              "RelativeDocumentMoniker": "Parking\\Parking.csproj",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Parking.csproj",
+              "RelativeToolTip": "Parking\\Parking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-28T03:18:05.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVehicleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterVehicleViewModel.cs",
+              "RelativeDocumentMoniker": "Parking\\ViewModel\\RegisterVehicleViewModel.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterVehicleViewModel.cs",
+              "RelativeToolTip": "Parking\\ViewModel\\RegisterVehicleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:38:59.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\DashboardFuncionario\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\CreateUser.cshtml",
+              "RelativeToolTip": "Parking\\Views\\DashboardFuncionario\\CreateUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T11:32:29.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\VehicleEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\VehicleEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\VehicleEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\VehicleEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:25:06.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Parking\\ViewModel\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\ViewModel\\RegisterViewModel.cs",
+              "RelativeToolTip": "Parking\\ViewModel\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T16:46:44.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\DashboardFuncionario\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\UserList.cshtml",
+              "RelativeToolTip": "Parking\\Views\\DashboardFuncionario\\UserList.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T00:48:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardFuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\DashboardFuncionarioController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\DashboardFuncionarioController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\DashboardFuncionarioController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\DashboardFuncionarioController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAwwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:59:26.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TariffEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\TariffEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\TariffEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\TariffEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\TariffEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:41:45.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParkingSpotEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ParkingSpotEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\ParkingSpotEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ParkingSpotEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\ParkingSpotEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T21:51:23.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParkingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ParkingEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\ParkingEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ParkingEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\ParkingEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:40:53.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\DashboardFuncionario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardFuncionario\\Index.cshtml",
+              "RelativeToolTip": "Parking\\Views\\DashboardFuncionario\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T20:03:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAmwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:55:09.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Parking\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Parking\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:18:48.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\UserEntity.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T03:17:52.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\UserEntitiesController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\UserEntitiesController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\UserEntitiesController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\UserEntitiesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:25:37.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\UserEntities\\Details.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\UserEntities\\Details.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\UserEntities\\Details.cshtml",
+              "RelativeToolTip": "Parking\\Views\\UserEntities\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-30T01:37:42.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ParkingEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\ParkingEntitiesController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\ParkingEntitiesController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\ParkingEntitiesController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\ParkingEntitiesController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:44:20.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardAprendiz\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\DashboardAprendiz\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\DashboardAprendiz\\Index.cshtml",
+              "RelativeToolTip": "Parking\\Views\\DashboardAprendiz\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T20:06:39.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:52:13.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:58:22.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TariffEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\TariffEntitiesController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\TariffEntitiesController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\TariffEntitiesController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\TariffEntitiesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:45:04.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Parking\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:36:28.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReservationEntity.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ReservationEntity.cs",
+              "RelativeDocumentMoniker": "Parking\\Models\\Entities\\ReservationEntity.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Models\\Entities\\ReservationEntity.cs",
+              "RelativeToolTip": "Parking\\Models\\Entities\\ReservationEntity.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:42:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "VehicleEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\VehicleEntitiesController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\VehicleEntitiesController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\VehicleEntitiesController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\VehicleEntitiesController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAiwJ8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:45:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReservationEntitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\ReservationEntitiesController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\ReservationEntitiesController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\ReservationEntitiesController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\ReservationEntitiesController.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAiwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T15:43:50.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DashboardAprendizController.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\DashboardAprendizController.cs",
+              "RelativeDocumentMoniker": "Parking\\Controllers\\DashboardAprendizController.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Controllers\\DashboardAprendizController.cs",
+              "RelativeToolTip": "Parking\\Controllers\\DashboardAprendizController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T20:00:59.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\appsettings.json",
+              "RelativeDocumentMoniker": "Parking\\appsettings.json",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\appsettings.json",
+              "RelativeToolTip": "Parking\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-28T03:28:52.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Parking\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:53:00.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\VehicleEntities\\Create.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\VehicleEntities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\VehicleEntities\\Create.cshtml",
+              "RelativeToolTip": "Parking\\Views\\VehicleEntities\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T21:22:27.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Parking\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:52:09.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\VehicleEntities\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\VehicleEntities\\Index.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\VehicleEntities\\Index.cshtml",
+              "RelativeToolTip": "Parking\\Views\\VehicleEntities\\Index.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T21:05:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Parking\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Parking\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T12:52:04.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Parking\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\miguel-dev\\Documents\\CSharp\\ManagerParking\\Parking\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Parking\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T00:22:35.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
